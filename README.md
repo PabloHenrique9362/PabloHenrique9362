@@ -1,12 +1,18 @@
-## Oiii! Eu sou o Pablo Henrique
-
-- 🧑‍💻 Buscando Estágio na Aréa da Programação
+<div align="center">
+ <div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Ola!+Me+Chamo+Pablo+Henrique!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+</div>
+<div>
+ - 🧑‍💻 Buscando Estágio na Aréa da Programação
 - 📚 Estudante de Desenvolvimento de Sistemas
 - 🌱 Sempre aprendendo novas Liguagens e Inovando
 - 💡 Focado e Determinado com Apredizado
+</div>
+
 <br>
 <br>
- <div style= "display: flex">
+ <div>
   <a href="https://github.com/pablohenrique9362">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PabloHenrique9362&show_icons=true&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloHenrique9362&layout=compact&langs_count=16&theme=dracula"/>
@@ -40,5 +46,6 @@
   <a href="https://www.linkedin.com/in/Pablo-henrique9362" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 <br>
+</div>
 
 
