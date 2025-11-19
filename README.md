@@ -3,12 +3,12 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Ola!+Me+Chamo+Pablo+Henrique!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
 </div>
    <h1>Sobre Mim</h1>
-<div>
+<div><h3>
  - 🧑‍💻 Buscando Estágio na Aréa da Programação<br>
  - 📚 Estudante de Desenvolvimento de Sistemas<br>
  - 🌱 Sempre aprendendo novas Liguagens e Inovando<br>
  - 💡 Focado e Determinado com Apredizado<br>
-</div>
+</h3></div>
 
 <br>
 <br>
