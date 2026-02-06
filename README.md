@@ -12,10 +12,14 @@
 
 <br>
 <br>
- <div>
-  <a href="https://github.com/pablohenrique9362">
-  <img height="180em" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=pablohenrique9362&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=pablohenrique9362&layout=compact&langs_count=16&theme=radical"/>
+ <br><br>
+
+<div align="center">
+  <a href="https://github.com/PabloHenrique9362">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pabloenrique9362&layout=compact&theme=radical" />
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PabloHenrique9362&show_icons=true&theme=radical"/>
+
+  </a>
 </div>
    <br>
    <br>
