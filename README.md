@@ -16,7 +16,7 @@
 
 <div align="center">
   <a href="https://github.com/PabloHenrique9362">
-    <img height="170em" src="https://github-readme-stats-jet-six-75.vercel.app/api/top-langs/?username=PabloHenrique9362&layout=compact&theme=radical" />
+    <img height="170em" src="https://github-readme-stats-jet-six-75.vercel.app/api/top-langs/?username=PabloHenrique9362&layout=compact&theme=radical&count_private=true&cache_seconds=0" />
     <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PabloHenrique9362&show_icons=true&theme=radical"/>
   </a>
 </div>
